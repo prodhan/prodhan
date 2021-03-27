@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: arifulweb007@gmail.com
-https://github-readme-stats.vercel.app/api?username=prodhan&show_icons=true&theme=vision-friendly-dark
+
+
+	
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prodhan&show_icons=true&theme=vision-friendly-dark)
