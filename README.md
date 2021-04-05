@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: arifulweb007@gmail.com
 
-![Most Used Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=prodhan&theme=dark&hide_langs_below=0&title_color=FFF)
 	
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prodhan&show_icons=true&theme=vision-friendly-dark&count_private=true)
+<a href="https://github.com/prodhan?tab=repositories">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=prodhan&theme=dark&hide_langs_below=0&title_color=FFF" />
+</a>
+<a href="https://github.com/adar2378">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prodhan&show_icons=false&theme=vision-friendly-dark&line_height=40&title_color=7221ff&count_private=true"
+</a>
