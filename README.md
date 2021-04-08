@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/prodhan">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prodhan&show_icons=false&theme=vision-friendly-dark&line_height=40&title_color=fff&count_private=true"
 </a>
+	
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prodhan&theme=vision-friendly-dark)](https://github.com/prodhan)
