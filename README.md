@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## This is Ariful
-### Founder & CEO of Pigeon Soft
+### PHP/Laravel Developer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Laravel
