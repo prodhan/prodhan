@@ -1,0 +1,135 @@
+body {
+    background-color: #1e1e1e;
+    color: #dcdcdc;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.terminal {
+    width: 95%;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.terminal-header {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buttons span {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.red { background-color: #ff5f56; }
+.yellow { background-color: #ffbd2e; }
+.green { background-color: #27c93f; }
+
+.title-bar {
+    color: #fff;
+    font-size: 14px;
+}
+
+.terminal-body {
+    background-color: #1e1e1e;
+    padding: 20px;
+}
+
+.intro, .about, .hobby, .contact {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    white-space: pre-wrap;
+}
+
+.highlight {
+    color: #39c026;
+}
+
+.tilde {
+    color: #5620f3;
+}
+
+.links {
+    margin-bottom: 20px;
+}
+
+.links a {
+    color: #dcdcdc;
+    font-size: 28px;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.links a:hover {
+    color: #34e2e2;
+}
+
+.email-link {
+    color: #dcdcdc;
+    transition: color 0.3s ease;
+    font-size: 18px;
+}
+
+.email-link a:hover {
+    color: #34e2e2;
+}
+
+.prompt {
+    margin-top: 20px;
+    white-space: nowrap;
+}
+
+.user, .location, .command {
+    display: inline-block;
+}
+
+.command {
+    display: inline-block;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.command::after {
+    content: " ";
+    animation: blink 1s step-end infinite;
+    background-color: #dcdcdc;
+    color: transparent;
+    margin-left: 2px;
+}
+
+@keyframes blink {
+    50% {
+        color: #dcdcdc;
+        background-color: transparent;
+    }
+}
+
+@media (max-width: 600px) {
+    .intro, .about, .hobby, .contact {
+        font-size: 16px;
+    }
+    
+    .links a {
+        font-size: 24px;
+    }
+    
+    .prompt {
+        font-size: 14px;
+    }
+}
